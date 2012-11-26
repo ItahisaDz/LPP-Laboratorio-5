@@ -1,2 +1,3 @@
-gnorando backups
+#Ignorando backups
 *.swp
+*~
